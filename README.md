@@ -1,2 +1,3 @@
 # Basic-Python-codes
-My first GitHub repository for learning and practice.
+This repository contains beginner-friendly Python programs, including loops, functions, and basic problem-solving examples.  
+More codes will be added soon!  
